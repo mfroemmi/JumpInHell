@@ -7,4 +7,5 @@ Hindernisse und ein Strom aus Lava fordern den Spieler zusätzlich heraus.
 Das Design der Spielelemente stammt aus der Schmiede von Jacqueline Noir und verleiht dem Spiel eine höllische Atmosphäre.
 
 JavaFX
+
 IDE: Apache NetBeans
